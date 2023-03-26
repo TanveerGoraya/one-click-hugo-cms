@@ -1,19 +1,12 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/coffeefacts.png
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Contact Us
+    text: Oliverdules.com
 ---
+<!--StartFragment-->
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Welcome to CoffeeFacts, your go-to source for all things coffee-related! Whether you're a seasoned coffee lover or just starting to explore the world of coffee, this website is your one-stop destination for interesting facts, helpful tips, and delicious recipes. From the history of coffee to the latest brewing techniques, we've got you covered. Our team of coffee experts is passionate about all things coffee, and we're excited to share our knowledge with you. So grab a cup of your favorite brew and join us on a journey to discover the fascinating world of coffee!
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+<!--EndFragment-->
